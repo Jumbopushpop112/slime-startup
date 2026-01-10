@@ -1,6 +1,5 @@
-# Your startup name here
-
-[My Notes](notes.md)
+# Slime Webpage
+[My Notes](notes.md) 
 
 I love slime, and especially the green kind on ghosts.
 
