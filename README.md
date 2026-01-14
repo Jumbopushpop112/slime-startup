@@ -28,9 +28,9 @@ Have you ever wanted a fun way to chat with your friends? That's what slime is a
 
 ### Design
 
-![Design image](placeholder.png)
+![Design image](StartUpRoughSketch.png) 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The design image features a nice slime background with a variety of text boxes displaying id, chats, pending friend requests, and an option to search usernames. Can't wait to see what comes from this idea!
 
 ```mermaid
 sequenceDiagram
@@ -54,7 +54,7 @@ I am going to use the required technologies in the following ways.
 - **React** - React will be used to make the website interactable for a user.
 - **Service** - Backend services will be used to make sure that mesasges are properly transmitted over the server to each user.  
 - **DB/Login** - User login information and messages will be stored in a database for each particular user.
-- **WebSocket** - When the user goes to the website, a websocket will send a server request to connect so the user can send messages.
+- **WebSocket** - When the user goes to the website, a websocket will send a server request to connect so the user can send messages to users on other browsers and machines.
 
 ## 🚀 AWS deliverable
 
