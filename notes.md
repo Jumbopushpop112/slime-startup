@@ -2,6 +2,10 @@
 
 [My startup - Simon](https://simon.cs260.click)
 
+Deployment Script (each time I save the website)
+./deployFiles.sh -k ../developer.pem -h slimestartup.click -s simon
+Copy each path each time from file explorer 
+
 ## Helpful links
 
 - [Course instruction](https://github.com/webprogramming260)
