@@ -10,7 +10,7 @@ Copy each path each time from file explorer
 
 - [Course instruction](https://github.com/webprogramming260)
 - [Canvas](https://byu.instructure.com)
-- [MDN](https://developer.mozilla.org)
+- [MDN](https://developer.mozilla.org) 
 
 ## AWS
 
